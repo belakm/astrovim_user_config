@@ -5,6 +5,5 @@ return {
   -- available plugins can be found at https://github.com/AstroNvim/astrocommunity
   { import = "astrocommunity.pack.rust" },
   -- { import = "astrocommunity.completion.copilot-lua-cmp" },
-  { 
-    'Mofiqul/dracula.nvim'  }
+  { 'Mofiqul/dracula.nvim'  },
 }
